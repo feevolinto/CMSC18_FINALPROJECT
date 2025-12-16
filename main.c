@@ -64,7 +64,7 @@ int main() {
     // Main Menu Loop
     do {
         printf("\n========================================\n");
-        printf("      Cacao Integrated Manager v2.0\n");
+        printf("       CaoWing System Manager\n");
         printf("========================================\n");
         printf("[1] Input New Weekly Usage\n");
         printf("[2] View Analysis & Forecast Supply\n");
