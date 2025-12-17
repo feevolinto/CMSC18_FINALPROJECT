@@ -3,3 +3,6 @@ Weekly Total: 42.00 kg | Avg: 6.00 kg | Inventory Remaining: 100.00 kg
 Weekly Total: 35.00 kg | Avg: 5.00 kg | Inventory Remaining: 20.00 kg
 Weekly Total: 47.00 kg | Avg: 6.71 kg | Inventory Remaining: 5.00 kg
 Weekly Total: 47.00 kg | Avg: 6.71 kg | Inventory Remaining: 56.00 kg
+Weekly Total: 47.00 kg | Avg: 6.71 kg | Inventory Remaining: 20.00 kg
+Weekly Total: 59.00 kg | Avg: 8.43 kg | Inventory Remaining: 10.00 kg
+Weekly Total: 175.00 kg | Avg: 25.00 kg | Inventory Remaining: 33.00 kg
